@@ -1,0 +1,8 @@
+**/.terraform/*
+
+**/.vscode/*
+
+*.tfstate
+*.tfstate.*
+
+app.zip
